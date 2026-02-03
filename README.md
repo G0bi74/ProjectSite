@@ -127,7 +127,3 @@ Projekt implementuje podstawowe praktyki bezpieczeństwa:
 ## Autor
 
 Projekt został stworzony w celach edukacyjnych do nauki i rozwijania umiejętności programowania w Javie.
-
-## Licencja
-
-Projekt edukacyjny - brak określonej licencji.
