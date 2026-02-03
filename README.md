@@ -123,7 +123,3 @@ Projekt implementuje podstawowe praktyki bezpieczeństwa:
 - ✅ Hashowanie haseł przy użyciu BCrypt
 - ✅ Parametryzowane zapytania SQL (PreparedStatement) zapobiegające SQL Injection
 - ✅ Wysoki cost factor (12) dla BCrypt zapewniający odporność na ataki brute-force
-
-## Autor
-
-Projekt został stworzony w celach edukacyjnych do nauki i rozwijania umiejętności programowania w Javie.
